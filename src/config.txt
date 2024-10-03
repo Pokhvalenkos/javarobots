@@ -1,0 +1,13 @@
+Obstacle,2,6
+Obstacle,3,1
+Obstacle,3,2
+Obstacle,3,3
+Obstacle,3,4
+Obstacle,3,6
+Obstacle,4,6
+Obstacle,5,3
+Obstacle,5,4
+Obstacle,5,6
+Obstacle,6,3
+Obstacle,6,4
+Obstacle,7,8
